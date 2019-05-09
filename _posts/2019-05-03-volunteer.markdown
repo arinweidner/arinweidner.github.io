@@ -7,7 +7,7 @@ author: "Arin"
 banner: "/assets/img/banner.png"
 avatar: "/img/authors/arin.png"
 image: "/img/a.png"
-abstract: "This project was created to support learning outside of a face-to-face classroom."
+abstract: "With a need to reach volunteers statewide, this eLearning project addresses device accessibility and varied broadband speeds."
 
 ---
 
