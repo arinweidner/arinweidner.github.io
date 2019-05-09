@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Learn About the News"
+title:  "Volunteer Onboard Training"
 subtitle: ""
-permalink: "/news/"
+permalink: "/volunteer/"
 author: "Arin"
 banner: "/assets/img/banner.png"
 avatar: "/img/authors/arin.png"
@@ -13,7 +13,7 @@ abstract: "This project was created to support learning outside of a face-to-fac
 
 &nbsp;
 {% raw %}
-<iframe frameborder="no" height="635px" width="980px" src="/samples/ndy/story.html"></iframe>
+<iframe frameborder="no" height="635px" width="980px" src="/samples/volunteer/story.html"></iframe>
 {% endraw %}
 
 #### &nbsp;
