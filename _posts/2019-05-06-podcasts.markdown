@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Podcasts & Blog"
+subtitle: ""
+author: "Arin"
+permalink: "/podcasts/"
+avatar: "/img/authors/arin.png"
+banner: "/assets/img/banner2.png"
+image: "/img/b.png"
+abstract: "Taking reliable content knowledge and utilizing an outlet to reach a wider audience, podcasts and blogs create opportunity to share in a user-friendly way."
+
+---
+&nbsp;
+
+{% raw %}
+<div class="mdl-grid">
+<div class="mdl-cell mdl-cell--1-col">
+</div>
+<div class="mdl-cell mdl-cell--4-col">
+<img src="/img/barnchatter.jpg">
+<audio src="/media/barnchatter-heatstress.mp3" controls preload></audio>
+</div>
+<div class="mdl-cell mdl-cell--2-col">
+</div>
+<div class="mdl-cell mdl-cell--4-col">
+<img src="/img/the4thh-farmersmarket.jpg">
+<audio src="/media/the4thh-farmersmarket.mp3" controls preload></audio>
+</div>
+<div class="mdl-cell mdl-cell--1-col">
+</div>
+</div>
+{% endraw %}
+#### &nbsp;
+
+Starting in the Spring of 2017, I have produced, edited, and launched monthly podcast episodes with accompanying articles for blog posting for Purdue University’s Extension. The two series I worked on were “The 4th H” and “Barn Chatter”. These podcasts were aimed to reach new audiences with valuable information through a different media. Typically, this information would be submitted as an online article or social media posting, but the staff that created the content wanted a method of reaching new audiences. They wanted to be a resource for reliable content knowledge for Extension audiences and the general public. This podcast is produced for Indiana residents and reaches over 30,000 listeners via their social media platforms.
+
+#### Links to more podcasts and blog articles:
+[The 4th H](https://ag.purdue.edu/stories/columns/the-4th-h/)
+
+[Barn Chatter](https://ag.purdue.edu/stories/columns/barn-chatter/)
+
+#### Tools
+* Adobe Audition
+* Adobe InDesign
+* Adobe Photoshop
+
+#### Skills
+* Project Management
+* Audio Engineering & Editing
+* Graphic Design
+* Editorial Review & Editing
+

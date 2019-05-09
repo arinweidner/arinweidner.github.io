@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% if page.banner %}
+<div class="post-ribbon" style="background-image:url('{{ page.banner }}'); background-repeat:no-repeat; background-size:cover"></div>
+{% else %}
+<div class="post-ribbon" style="background-image:linear-gradient(transparent, white), url('/assets/img/welcome_card.png'); background-repeat:no-repeat; background-size:cover"></div>
+{% endif %}
+<main class="post-main mdl-layout__content">
+  <div class="post-container mdl-grid">
+    <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
+    <div class="post-section mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
+      <div class="mdl-color-text--grey-500">
+      </div>
+      <h3>{{ page.title }}</h3>
+      <article class="post-content">
+        <p>{{ content }}</p>
+      </article>
+    </div>
+  </div>
+</main>
