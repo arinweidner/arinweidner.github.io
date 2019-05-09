@@ -5,8 +5,8 @@
     <description></description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 May 2019 23:28:17 -0500</pubDate>
-    <lastBuildDate>Wed, 08 May 2019 23:28:17 -0500</lastBuildDate>
+    <pubDate>Wed, 08 May 2019 23:44:54 -0500</pubDate>
+    <lastBuildDate>Wed, 08 May 2019 23:44:54 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -63,30 +63,33 @@
       </item>
     
       <item>
-        <title>Learn About the News</title>
+        <title>Volunteer Onboard Training</title>
         <description>&lt;p&gt; &lt;/p&gt;
 
-&lt;iframe frameborder=&quot;no&quot; height=&quot;635px&quot; width=&quot;980px&quot; src=&quot;/samples/ndy/story.html&quot;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&quot;no&quot; height=&quot;634px&quot; width=&quot;740px&quot; src=&quot;/samples/volunteer/story.html&quot;&gt;&lt;/iframe&gt;
 
 &lt;h4&gt; &lt;/h4&gt;
-&lt;p&gt;Spring of 2018, I was brought into this project to provide redesign consultation. The audience for these eLearning modules were adult volunteers for a positive youth development organization. The design for this project was to onboard volunteers, a training that was typically delivered face-to-face.  This project had been partially completed, but needed updating with additional interactivity. Needs of this project were to keep a simple format as the ages and technology literacy of the adult volunteers varied, making it important that the interactions within the modules we easier to understand and follow. It is important to note, that these modules required a design that would not require face upload/download speeds, as many of the users would be accessing this training from rural locations without high speed broadband availability.&lt;/p&gt;
+&lt;p&gt;During the Fall of 2018, I was contacted by a faculty member who was interested in adding resources to a workshop they were teaching. Initially, the professor had thought a webpage listing available websites would be sufficient. After reviewing previous projects I completed for other faculty, providing more interactive exploration of course topics through learning modules was a better fit.&lt;/p&gt;
 
 &lt;h4 id=&quot;tools&quot;&gt;Tools&lt;/h4&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Articulate Storyline 3&lt;/li&gt;
   &lt;li&gt;Adobe Photoshop&lt;/li&gt;
+  &lt;li&gt;Adobe Audition&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;skills&quot;&gt;Skills&lt;/h4&gt;
+
 &lt;ul&gt;
+  &lt;li&gt;Instructional Design&lt;/li&gt;
   &lt;li&gt;eLearning Development&lt;/li&gt;
   &lt;li&gt;Graphic Design&lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Sun, 05 May 2019 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/news/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/news/</guid>
+        <link>http://0.0.0.0:4000/volunteer/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/volunteer/</guid>
         
         
       </item>
@@ -121,34 +124,29 @@
       </item>
     
       <item>
-        <title>Volunteer Onboard Training</title>
+        <title>Learn About the News</title>
         <description>&lt;p&gt; &lt;/p&gt;
 
-&lt;iframe frameborder=&quot;no&quot; height=&quot;634px&quot; width=&quot;740px&quot; src=&quot;/samples/volunteer/story.html&quot;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&quot;no&quot; height=&quot;635px&quot; width=&quot;980px&quot; src=&quot;/samples/ndy/story.html&quot;&gt;&lt;/iframe&gt;
 
 &lt;h4&gt; &lt;/h4&gt;
-&lt;p&gt;During the Fall of 2018, I was contacted by a faculty member who was interested in adding resources to a workshop they were teaching. Initially, the professor had thought a webpage listing available websites would be sufficient. After reviewing previous projects I completed for other faculty, providing more interactive exploration of course topics through learning modules was a better fit.&lt;/p&gt;
+&lt;p&gt;Spring of 2018, I was brought into this project to provide redesign consultation. The audience for these eLearning modules were adult volunteers for a positive youth development organization. The design for this project was to onboard volunteers, a training that was typically delivered face-to-face.  This project had been partially completed, but needed updating with additional interactivity. Needs of this project were to keep a simple format as the ages and technology literacy of the adult volunteers varied, making it important that the interactions within the modules we easier to understand and follow. It is important to note, that these modules required a design that would not require fast upload/download speeds, as many of the users would be accessing this training from rural locations without high speed broadband availability.&lt;/p&gt;
 
 &lt;h4 id=&quot;tools&quot;&gt;Tools&lt;/h4&gt;
-
 &lt;ul&gt;
   &lt;li&gt;Articulate Storyline 3&lt;/li&gt;
   &lt;li&gt;Adobe Photoshop&lt;/li&gt;
-  &lt;li&gt;Adobe Audition&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;skills&quot;&gt;Skills&lt;/h4&gt;
-
 &lt;ul&gt;
-  &lt;li&gt;Instructional Design&lt;/li&gt;
   &lt;li&gt;eLearning Development&lt;/li&gt;
   &lt;li&gt;Graphic Design&lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Fri, 03 May 2019 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/volunteer/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/volunteer/</guid>
+        <link>http://0.0.0.0:4000/news/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/news/</guid>
         
         
       </item>
