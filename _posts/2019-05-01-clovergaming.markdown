@@ -11,7 +11,7 @@ abstract: "Launching a brand new statewide program with innovative and creative 
 ---
 &nbsp;
 {% raw %}
-<iframe width="480" height="360" src="http://www.youtube.com/embed/Je4-sngud1k" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/Je4-sngud1k" frameborder="0"> </iframe>
 {% endraw %}
 &nbsp;
 
